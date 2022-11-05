@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developer
 - 🌱 I’m currently learning data science, angular 14
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My mail id is ganeshsamgir79@gmail.com
 
 <!---
 gansam79/gansam79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
